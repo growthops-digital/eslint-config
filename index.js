@@ -10,6 +10,11 @@ module.exports = {
 		'plugin:jsx-a11y/strict',
 		'plugin:@next/next/recommended',
 	],
+	plugins: [
+		'react',
+		'@typescript-eslint',
+		'jsx-a11y',
+	],
 	rules: {
 		// --------------------------------------------------------
 		// Vanilla ESLint Rules
