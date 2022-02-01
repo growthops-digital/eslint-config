@@ -2,11 +2,6 @@ const DISABLE = 0;
 const ERROR = 2;
 
 module.exports = {
-	env: {
-		browser: true,
-		es2021: true,
-		node: true,
-	},
 	extends: [
 		'eslint:recommended',
 		'plugin:react/recommended',
@@ -15,25 +10,6 @@ module.exports = {
 		'plugin:jsx-a11y/strict',
 		'plugin:@next/next/recommended',
 	],
-	parser: '@typescript-eslint/parser',
-	parserOptions: {
-		ecmaFeatures: {
-			jsx: true,
-		},
-		ecmaVersion: 13,
-		sourceType: 'module',
-		project: ['./tsconfig.json'],
-	},
-	plugins: [
-		'react',
-		'@typescript-eslint',
-		'jsx-a11y',
-	],
-	settings: {
-		react: {
-			version: 'detect',
-		},
-	},
 	rules: {
 		// --------------------------------------------------------
 		// Vanilla ESLint Rules
