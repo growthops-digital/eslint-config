@@ -8,7 +8,6 @@ module.exports = {
 		'plugin:@typescript-eslint/recommended',
 		'plugin:react/jsx-runtime',
 		'plugin:jsx-a11y/strict',
-		'plugin:@next/next/recommended',
 	],
 	plugins: [
 		'react',
