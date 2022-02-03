@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/growthops-digital/eslint-config/compare/v1.1.1...v1.1.2) (2022-02-03)
+
+
+### Bug Fixes
+
+* increase max-len:code limit ([079034f](https://github.com/growthops-digital/eslint-config/commit/079034f9c5d6aacec8eb4148b8ed4436d4c14c2e))
+
 ### [1.1.1](https://github.com/growthops-digital/eslint-config/compare/v1.1.0...v1.1.1) (2022-02-03)
 
 
