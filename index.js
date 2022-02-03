@@ -73,6 +73,7 @@ module.exports = {
 		}],
 		'max-len': [ERROR, {
 			code: 120,
+			tabWidth: 0,
 		}],
 		'max-lines': [ERROR, {
 			max: 600,
