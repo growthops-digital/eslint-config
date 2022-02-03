@@ -75,7 +75,7 @@ module.exports = {
 			code: 100,
 		}],
 		'max-lines': [ERROR, {
-			code: 666,
+			max: 600,
 		}],
 		// --------------------------------------------------------
 		// React Rules
