@@ -65,12 +65,27 @@ module.exports = {
 			ignoreJSX: 'all',
 		}],
 		'func-call-spacing': [ERROR, 'never'],
+		'max-params': [ERROR, {
+			max: 5,
+		}],
+		'max-depth': [ERROR, {
+			max: 3,
+		}],
+		'max-len': [ERROR, {
+			code: 100,
+		}],
+		'max-lines': [ERROR, {
+			code: 666,
+		}],
 		// --------------------------------------------------------
 		// React Rules
 		// --------------------------------------------------------
 		'react/jsx-curly-spacing': [ERROR, {
 			when: 'never',
 			allowMultiline: true,
+			children: {
+				when: 'never',
+			},
 		}],
 		'react/boolean-prop-naming': [ERROR, {
 			rule: '^(is|has)[A-Z]([A-Za-z0-9]?)+',
