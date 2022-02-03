@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/growthops-digital/eslint-config/compare/v1.0.7...v1.1.0) (2022-02-03)
+
+
+### Features
+
+* add max-* rules and child brace styling rules ([7283ab2](https://github.com/growthops-digital/eslint-config/commit/7283ab2f5fd97dff7b031a6975d57e28b18a7cfc))
+
 ### [1.0.7](https://github.com/growthops-digital/eslint-config/compare/v1.0.6...v1.0.7) (2022-02-02)
 
 ### [1.0.6](https://github.com/growthops-digital/eslint-config/compare/v1.0.5...v1.0.6) (2022-02-01)
