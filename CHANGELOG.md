@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.5](https://github.com/growthops-digital/eslint-config/compare/v1.1.4...v1.1.5) (2022-02-21)
+
+
+### Bug Fixes
+
+* remove @typescript-eslint/no-unnecessary-type-arguments enforcement ([f176ad8](https://github.com/growthops-digital/eslint-config/commit/f176ad8cc27144a1e81618068bf19225c7fba828))
+
 ### [1.1.4](https://github.com/growthops-digital/eslint-config/compare/v1.1.3...v1.1.4) (2022-02-09)
 
 
