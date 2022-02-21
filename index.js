@@ -247,7 +247,6 @@ module.exports = {
 		'@typescript-eslint/no-non-null-assertion': [ERROR],
 		'@typescript-eslint/no-unnecessary-boolean-literal-compare': [ERROR],
 		'@typescript-eslint/no-unnecessary-condition': [ERROR],
-		'@typescript-eslint/no-unnecessary-type-arguments': [ERROR],
 		'@typescript-eslint/no-unnecessary-type-assertion': [ERROR],
 		'@typescript-eslint/no-unnecessary-type-constraint': [ERROR],
 		'@typescript-eslint/no-unsafe-argument': [ERROR],
