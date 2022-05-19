@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/growthops-digital/eslint-config/compare/v1.1.5...v1.2.0) (2022-05-19)
+
+
+### Features
+
+* add arrow-spacing rule ([04e3dd6](https://github.com/growthops-digital/eslint-config/commit/04e3dd6020420c9e7daf7760199cbeefba23db4f))
+
 ### [1.1.5](https://github.com/growthops-digital/eslint-config/compare/v1.1.4...v1.1.5) (2022-02-21)
 
 
