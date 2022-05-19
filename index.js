@@ -78,6 +78,10 @@ module.exports = {
 		'max-lines': [ERROR, {
 			max: 600,
 		}],
+		'arrow-spacing': [ERROR, {
+			before: true,
+			after: true,
+		}],
 		// --------------------------------------------------------
 		// React Rules
 		// --------------------------------------------------------
