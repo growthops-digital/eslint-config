@@ -71,10 +71,6 @@ module.exports = {
 		'max-depth': [ERROR, {
 			max: 3,
 		}],
-		'max-len': [ERROR, {
-			code: 120,
-			tabWidth: 0,
-		}],
 		'max-lines': [ERROR, {
 			max: 600,
 		}],
@@ -82,6 +78,11 @@ module.exports = {
 			before: true,
 			after: true,
 		}],
+		'no-multiple-empty-lines': [ERROR, {
+			max: 1,
+			maxEOF: 1,
+		}],
+		'padded-blocks': [ERROR, 'never'],
 		// --------------------------------------------------------
 		// React Rules
 		// --------------------------------------------------------
@@ -281,11 +282,6 @@ module.exports = {
 		'@typescript-eslint/restrict-plus-operands': [ERROR, {
 			checkCompoundAssignments: false,
 			allowAny: false,
-		}],
-		'@typescript-eslint/no-magic-numbers': [ERROR, {
-			ignoreEnums: true,
-			ignoreNumericLiteralTypes: true,
-			ignoreReadonlyClassProperties: false,
-		}],
+		}]
 	},
 };
