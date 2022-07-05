@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/growthops-digital/eslint-config/compare/v1.2.0...v1.3.0) (2022-07-05)
+
+
+### Features
+
+* update rules to match new standards ([9b44526](https://github.com/growthops-digital/eslint-config/commit/9b44526d9bb60db722d8bd8c41b7646228fc9598))
+
 ## [1.2.0](https://github.com/growthops-digital/eslint-config/compare/v1.1.5...v1.2.0) (2022-05-19)
 
 
