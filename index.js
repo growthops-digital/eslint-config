@@ -8,6 +8,7 @@ module.exports = {
 		'plugin:@typescript-eslint/recommended',
 		'plugin:react/jsx-runtime',
 		'plugin:jsx-a11y/strict',
+		'plugin:import/recommended'
 	],
 	plugins: [
 		'react',
@@ -84,7 +85,15 @@ module.exports = {
 		}],
 		'padded-blocks': [ERROR, 'never'],
 		'jsx-quotes': [ERROR, 'prefer-double'],
-		'no-duplicate-imports': [ERROR],
+		// --------------------------------------------------------
+		// Import Rules
+		// --------------------------------------------------------
+		'import/group-exports': [ERROR],
+		'import/no-duplicates': [ERROR],
+		'import/newline-after-import': [ERROR, {
+			count: 1,
+			considerComments: true,
+		}],
 		// --------------------------------------------------------
 		// React Rules
 		// --------------------------------------------------------
