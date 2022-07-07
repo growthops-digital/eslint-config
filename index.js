@@ -83,6 +83,8 @@ module.exports = {
 			maxEOF: 1,
 		}],
 		'padded-blocks': [ERROR, 'never'],
+		'jsx-quotes': [ERROR, 'prefer-double'],
+		'no-duplicate-imports': [ERROR],
 		// --------------------------------------------------------
 		// React Rules
 		// --------------------------------------------------------
