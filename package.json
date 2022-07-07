@@ -1,6 +1,6 @@
 {
 	"name": "@growthops/eslint-config",
-	"version": "1.3.0",
+	"version": "1.4.0",
 	"description": "GrowthOps Digital Official ESLint Config",
 	"main": "index.js",
 	"author": "GrowthOps Digital",
