@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/growthops-digital/eslint-config/compare/v1.4.0...v1.5.0) (2022-07-07)
+
+
+### Features
+
+* add and implement import plugin ([6bb3f58](https://github.com/growthops-digital/eslint-config/commit/6bb3f58b3578a1490b86213e761df54e443cd606))
+
 ## [1.4.0](https://github.com/growthops-digital/eslint-config/compare/v1.3.0...v1.4.0) (2022-07-07)
 
 
