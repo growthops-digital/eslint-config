@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.1](https://github.com/growthops-digital/eslint-config/compare/v1.5.0...v1.5.1) (2022-07-07)
+
+
+### Bug Fixes
+
+* remove considerComments option from import/newline-after-import rule ([022f76b](https://github.com/growthops-digital/eslint-config/commit/022f76b029fe08b70f98b30aedd7f163b4238eef))
+
 ## [1.5.0](https://github.com/growthops-digital/eslint-config/compare/v1.4.0...v1.5.0) (2022-07-07)
 
 
