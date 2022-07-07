@@ -92,7 +92,6 @@ module.exports = {
 		'import/no-duplicates': [ERROR],
 		'import/newline-after-import': [ERROR, {
 			count: 1,
-			considerComments: true,
 		}],
 		// --------------------------------------------------------
 		// React Rules
