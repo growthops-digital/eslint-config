@@ -4,16 +4,19 @@ const ERROR = 2;
 module.exports = {
 	extends: [
 		'eslint:recommended',
-		'plugin:react/recommended',
 		'plugin:@typescript-eslint/recommended',
-		'plugin:react/jsx-runtime',
+		'plugin:import/recommended',
 		'plugin:jsx-a11y/strict',
-		'plugin:import/recommended'
+		'plugin:react/jsx-runtime',
+		'plugin:react/recommended',
+		'plugin:unicorn/recommended',
 	],
 	plugins: [
-		'react',
 		'@typescript-eslint',
+		'import',
 		'jsx-a11y',
+		'react',
+		'unicorn',
 	],
 	rules: {
 		// --------------------------------------------------------
