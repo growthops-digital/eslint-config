@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/growthops-digital/eslint-config/compare/v1.5.1...v2.0.0) (2022-07-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* add unicorn plugin
+
+### Features
+
+* add unicorn plugin ([76c24ad](https://github.com/growthops-digital/eslint-config/commit/76c24ad86090fb30bddb850e131c77f8effe93c0))
+
 ### [1.5.1](https://github.com/growthops-digital/eslint-config/compare/v1.5.0...v1.5.1) (2022-07-07)
 
 
