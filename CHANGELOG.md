@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/growthops-digital/eslint-config/compare/v2.0.1...v2.0.2) (2022-10-26)
+
+
+### Bug Fixes
+
+* increase jsx-max-depth limit from 6 to 10 ([3bbbb90](https://github.com/growthops-digital/eslint-config/commit/3bbbb90cd07da89504eef7855e25e9490b63fb39))
+
 ### [2.0.1](https://github.com/growthops-digital/eslint-config/compare/v2.0.0...v2.0.1) (2022-10-05)
 
 ## [2.0.0](https://github.com/growthops-digital/eslint-config/compare/v1.5.1...v2.0.0) (2022-07-28)
