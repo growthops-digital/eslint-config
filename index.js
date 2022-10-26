@@ -138,7 +138,7 @@ module.exports = {
 			checkFragmentShorthand: true,
 			checkKeyMustBeforeSpread: true,
 		}],
-		'react/jsx-max-depth': [ERROR, {max: 6}],
+		'react/jsx-max-depth': [ERROR, {max: 10}],
 		'react/jsx-uses-react': [DISABLE],
 		'react/react-in-jsx-scope': [DISABLE],
 		'react/jsx-max-props-per-line': [ERROR, {
