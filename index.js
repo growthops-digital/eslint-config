@@ -107,7 +107,7 @@ module.exports = {
 			},
 		}],
 		'react/boolean-prop-naming': [ERROR, {
-			rule: '^(is|has)[A-Z]([A-Za-z0-9]?)+',
+			rule: '^(can|has|is|never|not|show|was|will)|.*?ed$',
 			validateNested: true,
 		}],
 		'react/button-has-type': [ERROR],
