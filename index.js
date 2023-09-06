@@ -282,7 +282,7 @@ module.exports = {
 		'@typescript-eslint/promise-function-async': [ERROR],
 		'@typescript-eslint/require-array-sort-compare': [ERROR],
 		'@typescript-eslint/require-await': [ERROR],
-		'@typescript-eslint/sort-type-union-intersection-members': [ERROR],
+		'@typescript-eslint/sort-type-constituents': [ERROR],
 		'@typescript-eslint/strict-boolean-expressions': [ERROR],
 		'@typescript-eslint/switch-exhaustiveness-check': [ERROR],
 		'@typescript-eslint/restrict-template-expressions': [ERROR, {
