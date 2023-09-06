@@ -292,9 +292,6 @@ module.exports = {
 			allowNullish: false,
 			allowRegExp: false,
 		}],
-		'@typescript-eslint/restrict-plus-operands': [ERROR, {
-			checkCompoundAssignments: false,
-			allowAny: false,
-		}]
+		'@typescript-eslint/restrict-plus-operands': [ERROR]
 	},
 };
